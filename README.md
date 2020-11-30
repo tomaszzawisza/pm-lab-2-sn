@@ -9,7 +9,7 @@ Data: 24.04.2020 r.
 # Informacje o studencie
 
 Imię i nazwisko studenta: Tomasz Zawisza
-Numer albumu: 72560  
+Numer albumu: 72560 
 Grupa studencka: WEL18DE1S1
 
 # Pytania do zadań z instrukcji
