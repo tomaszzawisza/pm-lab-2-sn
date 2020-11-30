@@ -15,4 +15,4 @@ Grupa studencka: WEL18DE1S1
 # Pytania do zadań z instrukcji
 
 Zadanie-2-2-1 W jaki sposób można określić czas trwania opóźnienia zrealizowanego z użyciem pętli? 
-Można to zrealizować pętlą do-while, powoduje ona zmiany zmiennej która ma dążyć do zera lub do określonej wartości (przez twórcę kodu)
+Można to zrealizować pętlą do-while, powoduje ona zmiany zmiennej która ma dążyć do zera lub do określonej wartości (przez twórcę kodu).
